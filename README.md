@@ -1,12 +1,11 @@
-# Hallo, ich bin [Vik] 👋
+<div align="center">
 
-Willkommen auf meinem Profil! Hier stelle ich mich kurz vor.
+# Hallo, ich bin Vik <img src="wave.gif" width="35">
+
+</div>
 
 ## Über mich
-- ⚙️ Ich arbeite gerade an: *[Webra]*, meinem eigenen Browser
-- 🌱 Ich lerne gerade: *[z. B. HTML, CSS, Python]*
-- 🎮 Meine Hobbys: *[Hobby 1, Hobby 2]*
-- 📫 Kontakt: *[deine E-Mail]*
+- ⚙️ Ich arbeite gerade an: Webra, meinem eigenen Browser
 
 ## Meine Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
