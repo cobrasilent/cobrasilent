@@ -17,7 +17,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 
 ## My projects
-- **[Webra](https://github.com/DEINNAME/REPONAME)**: my own browser
+- **[Webra](https://github.com/cobrasilent/webra)**: my own browser
 
 ---
 ⭐ Thanks for stopping by!
