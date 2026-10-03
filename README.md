@@ -6,6 +6,7 @@
 
 ## Über mich
 - ⚙️ Ich arbeite gerade an: Webra, meinem eigenen Browser
+- 💻 Ich programmiere Spiele, Tools, Web-Apps und Automatisierungen
 
 ## Meine Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
