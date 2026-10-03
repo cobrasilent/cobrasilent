@@ -1,21 +1,23 @@
 <div align="center">
 
-# Hallo, ich bin Vik <img src="wave.gif" width="35">
+# Hello, I'm Vik <img src="wave.gif" width="35">
 
 </div>
 
-## Über mich
-- ⚙️ Ich arbeite gerade an: Webra, meinem eigenen Browser
-- 💻 Ich programmiere Spiele, Tools, Web-Apps und Automatisierungen
+## About me
+- ⚙️ I'm currently working on **Webra**, my own browser
+- 💻 I build games, tools, web apps, and automations
+- 🎯 My goal: to build **SilentCobra** into a solo studio
 
-## Meine Skills
+## My skills
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 
-## Meine Projekte
-- **[Projektname 1]**: kurze Beschreibung
-- **[Projektname 2]**: kurze Beschreibung
+## My projects
+- **[Webra](https://github.com/DEINNAME/REPONAME)**: my own browser
 
 ---
-⭐ Danke fürs Vorbeischauen!
+⭐ Thanks for stopping by!
