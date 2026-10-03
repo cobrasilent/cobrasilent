@@ -1,9 +1,9 @@
-# Hallo, ich bin [DEIN NAME] 👋
+# Hallo, ich bin [Vik] 👋
 
 Willkommen auf meinem Profil! Hier stelle ich mich kurz vor.
 
 ## Über mich
-- 🔭 Ich arbeite gerade an: *[dein Projekt]*
+- ⚙️ Ich arbeite gerade an: *[Webra]*, meinem eigenen Browser
 - 🌱 Ich lerne gerade: *[z. B. HTML, CSS, Python]*
 - 🎮 Meine Hobbys: *[Hobby 1, Hobby 2]*
 - 📫 Kontakt: *[deine E-Mail]*
