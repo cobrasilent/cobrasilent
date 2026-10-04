@@ -9,6 +9,9 @@
 - 💻 I build games, tools, web apps, and automations
 - 🎯 My goal: to build **SilentCobra** into a solo studio
 
+## SilentCobra
+My own solo indie studio
+
 ## My skills
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
